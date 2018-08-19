@@ -1,0 +1,2 @@
+# soil-moisture-sensor
+This project provides a convenient and efficient way for measuring and monitoring the moisture level of soil.Through this farmers can keep a check over under and over irrigation in fields hence leading to healthy crops. Pump Automation makes it easier to water the fields at the right time, farmers don’t have to manually turn on and off the pump, and it is done automatically as per the need of the soil
